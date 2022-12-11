@@ -12,6 +12,7 @@ import javax.imageio.ImageIO
 import javax.sound.sampled.*
 import javax.swing.*
 import kotlin.concurrent.scheduleAtFixedRate
+// artifact "URN_Idiot"  is where this program is build to as a jar file. | out/artifacts/URN_Idiot/Idiot.jar
 /*
 *          you are an idiot﹗
 *
